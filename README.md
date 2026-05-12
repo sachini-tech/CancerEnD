@@ -4,7 +4,8 @@ CancerEnD is a comprehensive and user-friendly database developed for the analys
 
 Web Server: https://webs.iiitd.edu.in/raghava/cancerend/
 
----
+ZENODO : https://doi.org/10.5281/zenodo.20072635
+
 
 ## Citation
 
